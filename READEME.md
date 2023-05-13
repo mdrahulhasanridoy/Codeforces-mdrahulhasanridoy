@@ -1,5 +1,4 @@
-
- 01. **4A. Watermelon**
+01. **4A. Watermelon**
 
 <details>
 <summary>Problem</summary>
